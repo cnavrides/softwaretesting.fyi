@@ -1,8 +1,22 @@
-# Social Channels
+---
+sidebar_position: 5
+slug: /social-media
+---
+# Social Media
 
-## LinkedIn
+## LinkedIn Groups
 ### Software Testing & Automation (280k+ members)
 [link](https://www.linkedin.com/groups/55636/) Group with daily posts ranging from articles, help, etc.
+
+## Software Testing & QA
+
+
+## LinkedIn Influencers
+### Joe Colantonio
+
+### Ministry of Testing
+
+
 
 
 ## Chat Rooms

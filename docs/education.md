@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+slug: /education
+---
 # Education
 
 ## Online Courses

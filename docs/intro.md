@@ -2,7 +2,6 @@
 sidebar_position: 1
 slug: /
 ---
-
 # Tutorial Intro
 Welcome to softwareTesting.fyi. This is meant to be a community driven resource for everything related to software testing.
 

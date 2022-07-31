@@ -20,3 +20,7 @@ List of conferences happening throughout the year.
 
 ### PNSQC (Oct 10-12)
 [Pacific NorthWest Software Quality Conference (PNSQC)](https://www.pnsqc.org/) is an annual conference held in Portland Oregon. It covers topics ranging from evolution of Quality, emerging technology, AI/ML. In addition to the conference there is also workshops available.
+
+## Agregators
+### testingConferences.org
+[testingConferences.org](https://testingconferences.org/) is a currated list that is updated frequently with many conferences world wide.
